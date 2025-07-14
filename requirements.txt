@@ -1,0 +1,7 @@
+sounddevice
+scipy
+speechrecognition
+gtts
+playsound
+google-generativeai
+python-dotenv
